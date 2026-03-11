@@ -1,2 +1,18 @@
-# python-file-manager
-A simple Python file management project that allows users to create files and perform basic operations like writing, reading, and updating file content.
+# Python File Manager
+
+This is a simple Python file management project.
+
+## Features
+- Create files
+- Write content to files
+- Read file content
+- Update existing file content
+
+## Technologies Used
+- Python
+- pathlib module
+- File handling
+
+## How to Run
+Run the Python script using:
+python main.py
